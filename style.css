@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 100%;
+    background-color: #F5E0DE;
+
+}
+
+.navegation-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    
+}
+
+.header-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    gap: 30px;
+}
+
+.header-list {
+    list-style-type: none;
+}
