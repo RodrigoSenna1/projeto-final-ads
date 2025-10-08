@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+ 
+    font-size: 62.5%;
+
+}
+body{
+    width: 100%;
+    background-color: rgb(255, 135, 225)
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+}
+.logo-footer{
+    background-color: rgb(30, 99, 99);
+}
+#div-footer{
+    background-color: blue;
+    display: flex;
+}
+.contatos{
+    display: flex;
+    flex-direction: column;
+}
+
+.parceiros{
+    display: flex;
+    flex-direction: column;
+}
+.index-footer{
+    display: flex;
+    flex-direction: column;
+}
+#paragrafo-footer{
+    display: flex;
+    flex-direction: column;
+    width: 0.0336rem;
+    
+}
